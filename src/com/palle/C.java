@@ -1,5 +1,7 @@
-package com.palle
+package com.palle;
+
 public class C 
 {
-public int i=200;
+  public int y=20;
+  public int i=200;
 }
